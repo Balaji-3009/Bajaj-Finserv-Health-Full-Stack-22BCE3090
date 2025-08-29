@@ -5,7 +5,7 @@ from schema import InputBase
 app = FastAPI()
 
 user_id = "balaji_m_30092004"
-email = "balaji.m2022@vitstudent.ac.in"
+email = "mbalaji3009@gmail.com"
 roll_no = "22BCE3090"
 
 def findAlternatingCaps(word):
