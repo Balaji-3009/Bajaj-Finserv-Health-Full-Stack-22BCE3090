@@ -1,12 +1,12 @@
 # Bajaj Finserv Health Full Stack Project
 
-## bjective
+## Objective
 
 Build and host a REST API(POST /bfhl) that:
-(i) Accepts an list of strings/numbers/special characters.
-(ii) Returns categorized lists,sum of numbers and an alternating-caps concatenation of alphabets.
-(iii) Includes user details(user_id, email, roll_number)
+ - Accepts an list of strings/numbers/special characters.
+ - Returns categorized lists,sum of numbers and an alternating-caps concatenation of alphabets.
+ - Includes user details(user_id, email, roll_number)
 
 ## Tech Stack
-Python
-FastAPI
+ - Python
+ - FastAPI
