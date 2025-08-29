@@ -4,7 +4,7 @@ from schema import InputBase
 
 app = FastAPI()
 
-user_id = "Balaji_M_30092004"
+user_id = "balaji_m_30092004"
 email = "balaji.m2022@vitstudent.ac.in"
 roll_no = "22BCE3090"
 
